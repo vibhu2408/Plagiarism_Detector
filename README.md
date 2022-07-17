@@ -26,5 +26,6 @@ $ Plagiarism-checker-Python-> python3 app.py
 ('john.txt', 'juma.txt', 0.5465972177348937)
 ('fatma.txt', 'john.txt', 0.14806887549598566)
 ('fatma.txt', 'juma.txt', 0.18643448370323362)
+
 # A python library ?
 Would you like to use Python library instead to help you compare strings and documents without spending time writing the vectorizers by your own then take a look at Pysimilar.
